@@ -1,4 +1,7 @@
 import time
+
+time.sleep(3)
+
 # 計時開始
 start = time.time()
 duration = 114.514
@@ -12,3 +15,4 @@ while True:
     #c("cls")
 
 print("結束！")
+
