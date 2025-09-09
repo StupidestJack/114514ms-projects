@@ -1,4 +1,4 @@
-#剩餘18.633秒
+#剩餘5秒
 import random
 
 guess = random.randrange(1,100)
